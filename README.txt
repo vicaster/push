@@ -1,5 +1,8 @@
 Pour le bon fonctionnement de ce script:
 
+Faite la commande "sh deploiement.sh" pour mettre en place le script.
+
+Sinon faites le a la main en suivant les etapes suivantes:
 ---------------------------------------------------
 
 1- Mettre le script "push.sh" a la racine "~"
@@ -24,4 +27,3 @@ Bon push.
 ---------------------------------------------------
 
 
-SINON: sh deploiement.sh
