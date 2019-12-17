@@ -17,6 +17,7 @@ WHITE="\033[37m"
 
 cp -r ../push ~
 echo "alias push='sh ~/push/push.sh'" >> ~/.zshrc
+source ~/.zshrc
 echo "${GREEN}
 
            PUSH INSTALLED
